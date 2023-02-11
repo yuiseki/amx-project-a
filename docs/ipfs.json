@@ -26,7 +26,7 @@
       "type": "vector",
       "minzoom": 2,
       "maxzoom": 16,
-      "url": "pmtiles://https://bafybeicnq4bnvumk2uqkoa6fjg53u77x2qvjjs3xdjpxa4hd6rcq3uklsi.ipfs.cf-ipfs.com/ipfs/",
+      "url": "pmtiles://https://bafybeicnq4bnvumk2uqkoa6fjg53u77x2qvjjs3xdjpxa4hd6rcq3uklsi.ipfs.cf-ipfs.com/",
       "attribution": "法務省地図XML"
     }
   },
